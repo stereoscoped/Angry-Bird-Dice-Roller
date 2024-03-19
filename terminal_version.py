@@ -1,3 +1,9 @@
+"""
+Angry Bird Dice Roller
+3/19/2024
+by stereoscoped
+"""
+
 import random
 import time
 
